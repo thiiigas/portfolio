@@ -1,7 +1,7 @@
 # portfolio
 
 ## # Proposta
-página interativa , feita para apresentação e junção de  projetos pessoais e  universitário . onde visa expor  os projetos  para exibir as habilidades e skills adquiridos .
+página interativa , feita para apresentação de  projetos pessoais e  universitário . onde visa expor  os projetos  para exibir as habilidades e skills adquiridos .
 
 ## # teste
 
